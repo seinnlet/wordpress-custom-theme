@@ -3895,10 +3895,11 @@ __webpack_require__.r(__webpack_exports__);
  // Our modules / classes
 
 
- // Instantiate a new object using our modules/classes
+ // import GoogleMap from "./modules/GoogleMap"
+// Instantiate a new object using our modules/classes
 
 const mobileMenu = new _modules_MobileMenu__WEBPACK_IMPORTED_MODULE_1__["default"]();
-const heroSlider = new _modules_HeroSlider__WEBPACK_IMPORTED_MODULE_2__["default"]();
+const heroSlider = new _modules_HeroSlider__WEBPACK_IMPORTED_MODULE_2__["default"](); // const googleMap = new GoogleMap()
 
 /***/ }),
 
