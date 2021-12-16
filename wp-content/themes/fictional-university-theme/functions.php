@@ -2,6 +2,7 @@
   
   // custom json route
   require get_theme_file_path( '/inc/search-route.php' );
+  require get_theme_file_path( '/inc/like-route.php' );
 
   // retrieving author name in json
   function university_custom_rest() {
