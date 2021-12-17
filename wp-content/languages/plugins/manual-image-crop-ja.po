@@ -1,0 +1,204 @@
+# Translation of Stable (latest release) in Japanese
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-06 14:35:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: lib/ManualImageCrop.php:58
+msgid "Crop"
+msgstr "切り抜き"
+
+#. #-#-#-#-#  tmp-manual-image-crop.pot (Manual Image Crop 1.12)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/ManualImageCrop.php:67 lib/ManualImageCrop.php:94
+#: lib/ManualImageCrop.php:104 lib/ManualImageCrop.php:131
+#: lib/ManualImageCropSettingsPage.php:46
+msgid "Manual Image Crop"
+msgstr "Manual Image Crop"
+
+#: lib/ManualImageCrop.php:67
+msgid "Crop featured image"
+msgstr "アイキャッチ画像を切り抜き"
+
+#: lib/ManualImageCrop.php:94 lib/ManualImageCrop.php:104
+#: lib/ManualImageCrop.php:131
+msgid "Crop Image"
+msgstr "画像を切り抜く"
+
+#: lib/ManualImageCropEditorWindow.php:31
+msgid "Pick the image size:"
+msgstr "画像サイズを選択:"
+
+#: lib/ManualImageCropEditorWindow.php:44
+#: lib/ManualImageCropSettingsPage.php:133
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: lib/ManualImageCropEditorWindow.php:45
+#: lib/ManualImageCropSettingsPage.php:134
+msgid "Medium"
+msgstr "中"
+
+#: lib/ManualImageCropEditorWindow.php:46
+#: lib/ManualImageCropSettingsPage.php:135
+msgid "Large"
+msgstr "大"
+
+#: lib/ManualImageCropEditorWindow.php:47
+#: lib/ManualImageCropSettingsPage.php:136
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: lib/ManualImageCropEditorWindow.php:166
+msgid "Original picture dimensions:"
+msgstr "元の画像サイズ:"
+
+#: lib/ManualImageCropEditorWindow.php:168
+msgid "Target picture dimensions:"
+msgstr "新しい画像サイズ:"
+
+#: lib/ManualImageCropEditorWindow.php:174
+msgid "Soft proportional crop mode"
+msgstr "縦横比を保つ"
+
+#: lib/ManualImageCropEditorWindow.php:175
+msgid "Hard crop mode"
+msgstr "切り抜く"
+
+#: lib/ManualImageCropEditorWindow.php:181
+msgid "New image:"
+msgstr "新しい画像:"
+
+#: lib/ManualImageCropEditorWindow.php:190
+msgid "Previous image:"
+msgstr "前の画像:"
+
+#: lib/ManualImageCropEditorWindow.php:199
+msgid "Crop it!"
+msgstr "切り抜き"
+
+#: lib/ManualImageCropEditorWindow.php:207
+msgid "Target JPEG Quality"
+msgstr "保存する JPEG 画質"
+
+#: lib/ManualImageCropEditorWindow.php:208
+#: lib/ManualImageCropSettingsPage.php:175
+msgid "100 (best quality, biggest file)"
+msgstr "100 (最高画質、一番大きなファイル)"
+
+#: lib/ManualImageCropEditorWindow.php:209
+#: lib/ManualImageCropSettingsPage.php:176
+msgid "80 (very high quality)"
+msgstr "80 (非常に高画質)"
+
+#: lib/ManualImageCropEditorWindow.php:210
+#: lib/ManualImageCropSettingsPage.php:177
+msgid "70 (high quality)"
+msgstr "70 (高画質)"
+
+#: lib/ManualImageCropEditorWindow.php:211
+#: lib/ManualImageCropSettingsPage.php:178
+msgid "60 (good)"
+msgstr "60 (良)"
+
+#: lib/ManualImageCropEditorWindow.php:212
+#: lib/ManualImageCropSettingsPage.php:179
+msgid "50 (average)"
+msgstr "50 (並)"
+
+#: lib/ManualImageCropEditorWindow.php:213
+#: lib/ManualImageCropSettingsPage.php:180
+msgid "30 (low)"
+msgstr "30 (低)"
+
+#: lib/ManualImageCropEditorWindow.php:214
+#: lib/ManualImageCropSettingsPage.php:181
+msgid "10 (very low, smallest file)"
+msgstr "10 (非常に低画質、最小ファイル)"
+
+#: lib/ManualImageCropEditorWindow.php:223
+msgid "Generate Retina/HiDPI (@2x):"
+msgstr "Retina/HiDPI 向け (2倍サイズ) を生成:"
+
+#: lib/ManualImageCropEditorWindow.php:230
+msgid "The image has been cropped successfully"
+msgstr "画像の切り抜きを行いました。"
+
+#: lib/ManualImageCropEditorWindow.php:234
+msgid "An Error has occured. Please try again or contact plugin's author."
+msgstr "エラーが発生しました。再試行するか、プラグインの作成者に問い合わせてください。"
+
+#: lib/ManualImageCropEditorWindow.php:278
+msgid "Compatible"
+msgstr "互換"
+
+#: lib/ManualImageCropEditorWindow.php:280
+msgid "Source too small"
+msgstr "元の画像が小さすぎます"
+
+#: lib/ManualImageCropSettingsPage.php:45
+#: lib/ManualImageCropSettingsPage.php:61
+msgid "Manual Image Crop Settings"
+msgstr "Manual Image Crop"
+
+#: lib/ManualImageCropSettingsPage.php:87
+msgid "Mic Custom Settings"
+msgstr "Mic カスタム設定"
+
+#: lib/ManualImageCropSettingsPage.php:94
+msgid "Crop sizes settings"
+msgstr "切り抜きサイズ設定"
+
+#: lib/ManualImageCropSettingsPage.php:120
+msgid "Enter your settings below:"
+msgstr "設定を入力します:"
+
+#: lib/ManualImageCropSettingsPage.php:143
+msgid "Size"
+msgstr "サイズ"
+
+#: lib/ManualImageCropSettingsPage.php:144
+msgid "Visible"
+msgstr "表示"
+
+#: lib/ManualImageCropSettingsPage.php:145
+msgid "Default JPEG Quality"
+msgstr "既定の JPEG 品質"
+
+#: lib/ManualImageCropSettingsPage.php:146
+msgid "Custom Label"
+msgstr "カスタムラベル"
+
+#: lib/ManualImageCropSettingsPage.php:171
+msgid "Yes"
+msgstr "はい"
+
+#: lib/ManualImageCropSettingsPage.php:172
+msgid "No"
+msgstr "いいえ"
+
+#: manual-image-crop.php:68
+msgid "Settings"
+msgstr "設定"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/tomaszsita/wp-manual-image-crop"
+msgstr "https://github.com/tomaszsita/wp-manual-image-crop"
+
+#. Description of the plugin/theme
+msgid "Plugin allows you to manually crop all the image sizes registered in your WordPress theme (in particular featured image). Simply click on the \"Crop\" link next to any image in your media library and select the area of the image you want to crop."
+msgstr "お使いの WordPress テーマで定義されたすべての画像サイズごとに、手動で画像の切り抜きを行うプラグインです。メディアライブラリで、任意の画像横の「切り抜く」リンクをクリックし、切り抜きたい範囲を選択するだけです。"
+
+#. Author of the plugin/theme
+msgid "Tomasz Sita"
+msgstr "Tomasz Sita"
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/tomaszsita"
+msgstr "https://github.com/tomaszsita"
