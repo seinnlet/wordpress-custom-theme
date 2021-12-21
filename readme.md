@@ -17,6 +17,7 @@ Coding practice of a [WordPress course](https://www.udemy.com/course/become-a-wo
 
 ### Custom Plugins
 - Counting words, characters and reading time
+- Filtering words
 - Creating multiple choice questions (block type)
-- Featured Professor
+- Featured Professor (block type)
 - Custom SQL Database Table
